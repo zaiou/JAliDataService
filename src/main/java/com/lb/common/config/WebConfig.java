@@ -4,7 +4,7 @@ import com.jfinal.config.*;
 import com.lb.common.cron.LoadCron;
 import com.lb.common.utils.ConfigUtil;
 import com.lb.common.utils.Fn;
-import com.lb.interceptor.BaseActionInterceptor;
+import com.lb.common.interceptor.BaseActionInterceptor;
 import com.lb.common.cron.CronInit;
 
 /**

@@ -1,4 +1,4 @@
-package com.lb.interceptor;
+package com.lb.common.interceptor;
 
 import com.jfinal.aop.Interceptor;
 import com.jfinal.aop.Invocation;
